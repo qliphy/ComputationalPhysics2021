@@ -1,8 +1,0 @@
-cd “D:\1900011350\”
-$ echo "# 1900011350" >> README.md
-$ git init
-$ git add README.md
-$ git add *
-$ git commit -m "first commit"
-$ git remote add origin git@github.com:yunchuanX/1900011350.git
-$ git push -u origin master
